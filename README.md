@@ -5,6 +5,7 @@
 - [플레이 영상](video/play.mp4) · 한국어 음성과 자막
 - [게임 파일](game/반딧불%20등대.rbxlx) · 내려받아 Roblox Studio에서 열고 플레이할 수 있습니다.
 - [제작 과정](PROCESS.md) · 유리병을 만든 방법과 실제 게임에 적용한 과정
+- [지원 과제 소개와 Codex 제작 대화](sessions/session-01-codex.md) · 첫 문단은 제출 준비 중에 덧붙인 과제 소개이며, 실제 대화는 게임 아이디어 제안부터 시작합니다. [제작 이미지](sessions/제작기록.md)
 - [제작 화면과 메모](sessions/작업기록) · [Roblox 체험 주소](https://www.roblox.com/games/138611208042497)
 
 ## 아바타톤 제출 템플릿 안내
